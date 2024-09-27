@@ -129,3 +129,19 @@
 2024-09-26 13:21:31,282 - logger - WARNING - Test code for No. 10 mutant failed to generate.
 2024-09-26 13:21:31,282 - logger - INFO - -----Generating test for mutant 100...
 2024-09-26 13:21:31,282 - logger - INFO - -----Generating test for mutant 100...
+2024-09-28 02:09:54,844 - logger - INFO - =======================================Start Combining=======================================
+2024-09-28 02:09:54,844 - logger - INFO - =======================================Start Combining=======================================
+2024-09-28 02:09:54,845 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-09-28 02:09:54,845 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-09-28 02:09:54,868 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-28 02:09:54,868 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-28 02:09:54,872 - logger - INFO - -----Generating test for mutant 1...
+2024-09-28 02:09:54,872 - logger - INFO - -----Generating test for mutant 1...
+2024-09-28 02:22:01,935 - logger - INFO - =======================================Start Combining=======================================
+2024-09-28 02:22:01,935 - logger - INFO - =======================================Start Combining=======================================
+2024-09-28 02:22:01,936 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-09-28 02:22:01,936 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-09-28 02:22:01,956 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-28 02:22:01,956 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-09-28 02:22:01,960 - logger - INFO - -----Generating test for mutant 1...
+2024-09-28 02:22:01,960 - logger - INFO - -----Generating test for mutant 1...

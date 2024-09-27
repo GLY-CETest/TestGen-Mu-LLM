@@ -5,9 +5,17 @@ from utils import file_utils
 from utils.log import logger
 
 from src.test_generation.test_gen import gen_tests_for_all_mutants_from_llm
+from src.utils.codeparse import run_CodeParse_jar
 
 
+"""
+"""
 def main(projects_base: str):
+    # Parse ast and calls for all the projects under the base folder
+    print("=======================================\n"
+          "Start Parsing\n"
+          "=======================================\n")
+    run_CodeParse_jar(projects_base)
 
     #  combine ast and calls for all projects in the base folder
     print("=======================================\n"
