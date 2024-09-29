@@ -10,6 +10,8 @@ from src.utils.codeparse import run_CodeParse_jar
 
 """
 """
+
+
 def main(projects_base: str):
     # Parse ast and calls for all the projects under the base folder
     print("=======================================\n"
