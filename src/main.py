@@ -19,7 +19,7 @@ def main(projects_base: str):
           "=======================================\n")
     run_CodeParse_jar(projects_base)
 
-    #  combine ast and calls for all projects in the base folder
+    #  combine ast and call relations for all projects in the base folder
     print("=======================================\n"
           "Start Combining\n"
           "=======================================\n")
@@ -41,7 +41,9 @@ def main(projects_base: str):
 
 
 if __name__ == '__main__':
-    projects_base_dir = r"C:\Users\dell\Desktop\projects"
+    current_path = os.path.dirname(os.path.abspath(__file__))
+    print(current_path)
+    projects_base_dir = r"C:\YGL\Projects\pythonProject\TestGen-Mu-LLM\projUT"
     main(projects_base_dir)
 
 

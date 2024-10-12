@@ -145,3 +145,31 @@
 2024-09-28 02:22:01,956 - logger - INFO - =======================================Start Generating Tests=======================================
 2024-09-28 02:22:01,960 - logger - INFO - -----Generating test for mutant 1...
 2024-09-28 02:22:01,960 - logger - INFO - -----Generating test for mutant 1...
+2024-10-11 15:10:47,420 - logger - INFO - =======================================Start Combining=======================================
+2024-10-11 15:10:47,420 - logger - INFO - =======================================Start Combining=======================================
+2024-10-11 15:11:17,340 - logger - INFO - =======================================Start Combining=======================================
+2024-10-11 15:11:17,340 - logger - INFO - =======================================Start Combining=======================================
+2024-10-11 15:11:17,340 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-10-11 15:11:17,340 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-10-11 15:11:17,406 - logger - INFO - Combining ast and calls for project Triangle_1530246902634
+2024-10-11 15:11:17,406 - logger - INFO - Combining ast and calls for project Triangle_1530246902634
+2024-10-12 22:16:12,422 - logger - INFO - =======================================Start Combining=======================================
+2024-10-12 22:16:12,422 - logger - INFO - =======================================Start Combining=======================================
+2024-10-12 22:16:12,426 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-10-12 22:16:12,426 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-10-12 22:16:12,431 - logger - INFO - Combining ast and calls for project Triangle_1530246902634
+2024-10-12 22:16:12,431 - logger - INFO - Combining ast and calls for project Triangle_1530246902634
+2024-10-12 22:16:12,434 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-10-12 22:16:12,434 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-10-12 22:16:12,438 - logger - INFO - -----Generating test for mutant 1...
+2024-10-12 22:16:12,438 - logger - INFO - -----Generating test for mutant 1...
+2024-10-12 22:35:05,274 - logger - INFO - =======================================Start Combining=======================================
+2024-10-12 22:35:05,274 - logger - INFO - =======================================Start Combining=======================================
+2024-10-12 22:35:05,274 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-10-12 22:35:05,274 - logger - INFO - Combining ast and calls for project Nextday_1523352132921
+2024-10-12 22:35:05,290 - logger - INFO - Combining ast and calls for project Triangle_1530246902634
+2024-10-12 22:35:05,290 - logger - INFO - Combining ast and calls for project Triangle_1530246902634
+2024-10-12 22:35:05,296 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-10-12 22:35:05,296 - logger - INFO - =======================================Start Generating Tests=======================================
+2024-10-12 22:35:05,301 - logger - INFO - -----Generating test for mutant 1...
+2024-10-12 22:35:05,301 - logger - INFO - -----Generating test for mutant 1...
